@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.navbar{
+	background-color:saddlebrown;
+}
+.nav-link:hover{
+	text-decoration:underline;
+}
+
+.card{
+	background-color:rgba(231,163,53,0.25);
+	width: 700px;
+	border-bottom-color: peru;
+	border: rgba(215,114,26,1.00);
+	
+}
+.btn{
+	
+	transition: 0.8s;
+}
+.btn:hover{
+	color: peachpuff;
+}
